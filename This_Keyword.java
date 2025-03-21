@@ -30,7 +30,7 @@ class Flower{
 public class This_Keyword {
 
 	public static void main(String[] args) {
-		Flower obj=new Flower("Rose","Red",200);
+		Flower obj=new Flower("hybiscus","Red",200);
 		obj.flower_method();
 		
 
