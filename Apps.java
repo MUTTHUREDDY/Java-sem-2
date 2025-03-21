@@ -27,7 +27,7 @@ class Instagram extends Softwares { // child class
     @Override
     void app_open() {
     	while(true)
-        if (User_name.equals("Nokesh") && password.equals("123@N")) {
+        if (User_name.equals("Rani") && password.equals("123@R")) {
             System.out.println("Successfully login, app is open:");
             break;
         } else {
